@@ -2,7 +2,7 @@
 
 ## 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vuthanhhnguyenn&show_icons=true&theme=radical)
+![GitHub Stats]()
 
 ## 🛠️ Languages & Tools:
 [![SQL](https://img.shields.io/badge/-SQL-005CDB?style=for-the-badge&logo=mysql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
