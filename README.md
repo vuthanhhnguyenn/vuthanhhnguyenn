@@ -4,9 +4,6 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vuthanhhnguyenn&show_icons=true&theme=radical)
 
-![Most Used Languages](![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vuthanhhnguyenn&layout=compact&theme=radical)
-)
-
 ## 🛠️ Languages & Tools:
 [![SQL](https://img.shields.io/badge/-SQL-005CDB?style=for-the-badge&logo=mysql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
