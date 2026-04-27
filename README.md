@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm vuthanhhnguyenn
 
-### 🛠 Công nghệ & Công cụ sử dụng
+### 🛠 Công nghệ 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
@@ -10,10 +10,12 @@
 
 ## 🏆 Certificates:
 
-[![HackerRank SQL](https://img.shields.io/badge/HackerRank-SQL%20(Basic)-2EC866?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/certificates/iframe/7e1d36e115ec)
-[![HackerRank CSS](https://img.shields.io/badge/HackerRank-CSS%20(Basic)-2EC866?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/certificates/a5b302eb8595)
+[![HackerRank SQL](https://img.shields.io/badge/HackerRank-SQL%20-2EC866?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/certificates/iframe/7e1d36e115ec)
+[![HackerRank CSS](https://img.shields.io/badge/HackerRank-CSS%20-2EC866?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/certificates/a5b302eb8595)
+[![HackerRank CSS](https://img.shields.io/badge/HackerRank-JavaScript%20-2EC866?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/certificates/iframe/7d4f08931701)
 [![Samsung Algorithm](https://img.shields.io/badge/Samsung-Algorithm%20Certificate-1428A0?style=for-the-badge&logo=samsung)](https://drive.google.com/file/d/1LfR3CF72-L4ga6bVBG4rVfv9QjgyXrVY/view?usp=drive_link)
-[![HackerRank Java](https://img.shields.io/badge/HackerRank-Java%20(Basic)-2EC866?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/certificates/daaeef98a3e8)
+[![HackerRank Java](https://img.shields.io/badge/HackerRank-Java%20-2EC866?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/certificates/daaeef98a3e8)
+
 
 
 
